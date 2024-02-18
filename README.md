@@ -11,5 +11,6 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
 
 ## knowledge
 
-            <i class="devicon-javascript-plain colored"></i>
+          
+            <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></p>
           
