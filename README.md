@@ -9,8 +9,8 @@ Beyond the realm of development, I nurture other passions in my life. Music :mus
 
 Always eager for new discoveries and opportunities, I'm open to discussions and collaborations. If you have interesting projects or ideas to share, feel free to reach out to me! #webdeveloper #JavaScript #React #TypeScript #Java #SpringBoot #Simplon #OctoTechnologie #passionate #curious #webdevelopment #frontend #backend #technology #learning #motivated #LinkedIn
 
-## knowledge
-
-          
-            <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></p>
+## Languages & Tools
+<p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          </p>
           
