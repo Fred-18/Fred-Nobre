@@ -20,8 +20,7 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
 
 ## framework
 <p>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"alt="react" width="35"  /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"alt="nextjs" width="35" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"alt="spring" width="35" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"alt="nextjs" width="35" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"alt="spring" width="35" />
           
             
           
