@@ -16,8 +16,12 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"alt="html5" width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"alt="css" width="35" /> 
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"alt="mysql" width="35" />
-          
+</p>
 
+## framework
+<p>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"alt="react" width="35"  />
+          
+ 
 </p>
 
 
