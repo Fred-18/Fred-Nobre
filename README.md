@@ -25,7 +25,7 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"alt="jest"width="35" />
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"alt="junit" width="35"/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"alt="docker" width="35" /> 
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"alt="nextjs "widht="35" />
+                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg"alt="nextjs "widht="35" />
           
           
           
