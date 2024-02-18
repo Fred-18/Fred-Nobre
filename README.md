@@ -18,12 +18,14 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"alt="mysql" width="35" />
 </p>
 
-## Framework && Tools
+## Framework & Tools
 <p>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"alt="react" width="35"  />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"alt="nestjs"width="35" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"alt="spring"width="35" /> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"alt="jest"width="35" />
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"alt="junit" width="35"/>
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"alt="docker"width="35" />
+          
           
           
 
