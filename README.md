@@ -11,6 +11,6 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
 
 ## Languages & Tools
 <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg "alt="js" width="35"height=35 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg "alt="js" width="35" height="35"/>
           </p>
           
