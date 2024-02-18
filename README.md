@@ -1,6 +1,6 @@
 # Fred Nobre  :desktop_computer:
 
-##About me
+## About me :
  :raised_hand_with_fingers_splayed:Hello everyone! I'm Fred Nobre, currently undergoing a career transition into the field of web development. Holding a Bac+2 equivalence in web and mobile web development, I've decided to follow my passion and further my education by becoming a web application developer at Simplon, while also putting my skills into practice through an apprenticeship at Octo Technologie.
 
 My heart lies in front-end development, where I showcase my talents using technologies like JavaScript and React. In my quest for improvement, I've also embarked on learning TypeScript. On the back-end, I'm proficient with Java and Java SpringBoot, and I have some knowledge of Docker.
