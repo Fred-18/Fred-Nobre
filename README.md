@@ -8,3 +8,8 @@ My heart lies in front-end development, where I showcase my talents using techno
 Beyond the realm of development, I nurture other passions in my life. Music :musical_note:,football :football:, cycling :biking_man:, reading :open_book: , and cooking:man_cook: all play significant roles in my daily routine.
 
 Always eager for new discoveries and opportunities, I'm open to discussions and collaborations. If you have interesting projects or ideas to share, feel free to reach out to me! #webdeveloper #JavaScript #React #TypeScript #Java #SpringBoot #Simplon #OctoTechnologie #passionate #curious #webdevelopment #frontend #backend #technology #learning #motivated #LinkedIn
+
+## knowledge
+
+            <i class="devicon-javascript-plain colored"></i>
+          
