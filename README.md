@@ -3,6 +3,6 @@
 
 My heart lies in front-end development, where I showcase my talents using technologies like JavaScript and React. In my quest for improvement, I've also embarked on learning TypeScript. On the back-end, I'm proficient with Java and Java SpringBoot, and I have some knowledge of Docker.
 
-Beyond the realm of development, I nurture other passions in my life. Music, American football, cycling, reading, manga, and cooking all play significant roles in my daily routine.
+Beyond the realm of development, I nurture other passions in my life. Music :musical_note:,football :football:, cycling :biking_man:, reading :open_book: , and cooking:man_cook: all play significant roles in my daily routine.
 
 Always eager for new discoveries and opportunities, I'm open to discussions and collaborations. If you have interesting projects or ideas to share, feel free to reach out to me! #webdeveloper #JavaScript #React #TypeScript #Java #SpringBoot #Simplon #OctoTechnologie #passionate #curious #webdevelopment #frontend #backend #technology #learning #motivated #LinkedIn
