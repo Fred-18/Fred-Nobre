@@ -37,9 +37,10 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
 ## Let's Connect
 
 <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"alt="linkedIN" width="35"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"alt="linkedIN" width="35"
+    (https://www.linkedin.com/in/fred-nobre-17673ab3/)/>
  
- [LinkedIn](https://www.linkedin.com/in/fred-nobre-17673ab3/)
+
           
 </p>
 
