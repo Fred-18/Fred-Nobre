@@ -37,9 +37,9 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
 ## Let's Connect
 
 <p>
+
  
- 
- ![LinkedIn][(](https://www.linkedin.com/in/fred-nobre-17673ab3/)https://www.linkedin.com/in/fred-nobre-17673ab3/)
+ ![LinkedIn](https://www.linkedin.com/in/fred-nobre-17673ab3/)https://www.linkedin.com/in/fred-nobre-17673ab3/)
 </p>
 
 
