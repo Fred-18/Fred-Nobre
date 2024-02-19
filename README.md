@@ -25,19 +25,20 @@ Always eager for new discoveries and opportunities, I'm open to discussions and 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"alt="jest"width="35" />
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"alt="junit" width="35"/>
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"alt="docker" width="35" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"alt="nextjs"width="35" />
-          
-          
-          
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"alt="nextjs"width="35" /></p>
 
+## Skills 
+- Agile methodology
+- TDD
+- Eco-Conception
+- Craft
+- humility
+- Curious
+## Let's Connect
 
+<p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"alt="linkedIN" width="35"/>[LinkedIn](https://www.linkedin.com/in/fred-nobre-17673ab3/)
           
-            
-          
-          
- 
 </p>
 
 
