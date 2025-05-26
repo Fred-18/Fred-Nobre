@@ -1,13 +1,18 @@
 # Fred Nobre  :desktop_computer:
 
 ## About me :
- :raised_hand_with_fingers_splayed:Hello everyone! I'm Fred Nobre, currently undergoing a career transition into the field of web development. Holding a Bac+3 equivalence in web and mobile web development, I've decided to follow my passion and further my education by becoming a web application developer at Simplon, while also putting my skills into practice through an apprenticeship at Octo Technologie.
+ :raised_hand_with_fingers_splayed:Hi everyone!
+I'm Fred Nobre, a passionate and adaptable web developer currently transitioning into the tech field. I recently earned my diploma as a Concepteur Développeur d’Applications, officially validating a Bac+3 (equivalent to a bachelor’s degree) in web and mobile development.
 
-My heart lies in front-end development, where I showcase my talents using technologies like JavaScript and React. In my quest for improvement, I've also embarked on learning TypeScript. On the back-end, I'm proficient with Java and Java SpringBoot, and I have some knowledge of Docker.
+After completing a training program at Simplon, I’m now working as a developer at Octo Technology.
 
-Beyond the realm of development, I nurture other passions in my life. Music :musical_note:,football :football:, cycling :biking_man:, reading :open_book: , and cooking:man_cook: all play significant roles in my daily routine.
+I enjoy working on both front-end and back-end development. Whether it's creating engaging user interfaces with JavaScript, React, and TypeScript, or building robust APIs with Java and Spring Boot, I adapt to the project’s needs and take every opportunity to expand my skills.
 
-Always eager for new discoveries and opportunities, I'm open to discussions and collaborations. If you have interesting projects or ideas to share, feel free to reach out to me! #webdeveloper #JavaScript #React #TypeScript #Java #SpringBoot #Simplon #OctoTechnologie #passionate #curious #webdevelopment #frontend #backend #technology #learning #motivated #LinkedIn
+Currently, I'm feeling more comfortable with Java, thanks to consistent practice—though I'm still on a learning journey, especially when it comes to English technical documentation.
+
+Outside the world of code, I’m passionate about music 🎵, football 🏈, cycling 🚴‍♂️, reading 📖, and cooking 👨‍🍳, which help me stay balanced and creative.
+
+Always open to new discoveries, challenges, and collaborations, I’d love to connect and exchange ideas. Feel free to reach out!
 
 ## Languages
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" width="35"/>
